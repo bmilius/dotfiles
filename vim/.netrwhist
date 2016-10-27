@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/bmilius/src/pytest'
+let g:netrw_dirhist_2='/Users/bmilius/src/hapi-fhir/hapi-fhir/hapi-fhir-jpaserver-example/target/failsafe-reports'
+let g:netrw_dirhist_3='/Users/bmilius/src'
+let g:netrw_dirhist_4='/Users/bmilius'
+let g:netrw_dirhist_5='/Users'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_7='/Users'
+let g:netrw_dirhist_8='/Users/bmilius'
+let g:netrw_dirhist_9='/Users/bmilius/src'
